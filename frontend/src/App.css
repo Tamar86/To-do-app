@@ -1,0 +1,29 @@
+.task {
+  transition: opacity 0.5s ease;
+}
+.task.completed {
+  opacity: 0.5;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
